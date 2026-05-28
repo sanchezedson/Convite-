@@ -1,0 +1,8 @@
+{
+  "name": "Grande Prêmio do Isac",
+  "description": "Convite de aniversário personalizado do Isac, com o tema Carros da Disney, comemorando 2 anos no Fogão Mineiro, Campinas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
